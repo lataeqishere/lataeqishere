@@ -1,4 +1,4 @@
-![MasterHead]![IMG_8072_Original](https://github.com/DatboisouL/DatboisouL/assets/151647112/6d37b0ec-8d06-4b11-974f-5b3296f86bc3)
+![IMG_8072_Original](https://github.com/DatboisouL/DatboisouL/assets/151647112/6d37b0ec-8d06-4b11-974f-5b3296f86bc3)
 
 <h1 align="center">Hi 👋, I'm Potae</h1>
 <h3 align="center">Just a random newbie :)</h3>
