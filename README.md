@@ -8,9 +8,9 @@
 
 <p align="center"> <a href="https://twitter.com/yaboicookie__" target="blank"><img src="https://img.shields.io/twitter/follow/yaboicookie__?logo=twitter&style=for-the-badge" alt="yaboicookie__" /></a> </p>
 
-- 👨‍💻 I’m currently learning **Python !**
+<p align="center"> - 👨‍💻 I’m currently learning **Python !** </p>
 
-- ⚡ **one day or day one ?**
+<p align="center"> - ⚡ **one day or day one ?** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<div align="center>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,py,css,html,docker,flask,github" /><br>
   <img src="https://skillicons.dev/icons?i=gitlab,postman,powershell,vim,vscode,twitter,instagram" />
 </div>
