@@ -3,7 +3,7 @@
 <h1 align="center">Potae kub 🥷🏿</h1>
 
 <h3 align="center">Just a random newbie kub :)</h3>
-<hr/>
+<br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=datboisoul&label=Profile%20views&color=000000&style=flat" alt="datboisoul" /> </p>
 
 <p align="center"> <a href="https://twitter.com/yaboicookie__" target="blank"><img src="https://img.shields.io/twitter/follow/yaboicookie__?logo=twitter&style=for-the-badge" alt="yaboicookie__" /></a> </p>
@@ -20,15 +20,15 @@
 <a href="https://discord.gg/4UH69W3u3H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4UH69W3u3H" height="30" width="40" /></a>
 </p>
 
-<hr/>
+<br/>
 
-<h3 align="center">Languages and Tools:</h3>
-
+<h3 align="center"> Languages and Tools </h3>
+<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,css,html,docker,flask,github,gitlab" /><br/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,css,html,docker,flask,github,gitlab" /><br>
   <img src="https://skillicons.dev/icons?i=postman,powershell,vim,vscode,twitter,instagram" />
 </div>
-
+<br/>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datboisoul&show_icons=true&theme=dark&locale=en&layout=compact" alt="datboisoul" />
 </div>
