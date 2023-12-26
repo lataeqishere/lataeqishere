@@ -25,7 +25,7 @@
 <div align="center>
   <img src="https://skillicons.dev/icons?i=linux,bash,py,css,html,docker,flask,github" /><br>
   <img src="https://skillicons.dev/icons?i=gitlab,postman,powershell,vim,vscode,twitter,instagram" />
-</div>div>
+</div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datboisoul&show_icons=true&theme=dark&locale=en&layout=compact" alt="datboisoul" /></p>
 
 
