@@ -22,9 +22,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=linux,bash,py,css,html" /><br>
-<img src="https://skillicons.dev/icons?i=docker,flask,github,gitlab,postman" /><br>
-<img src="https://skillicons.dev/icons?i=powershell,vim,vscode,twitter,instagram" />
+<img src="https://skillicons.dev/icons?i=linux,bash,py,css,html,docker,flask,github" /><br>
+<img src="https://skillicons.dev/icons?i=gitlab,postman,powershell,vim,vscode,twitter,instagram" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datboisoul&show_icons=true&theme=dark&locale=en&layout=compact" alt="datboisoul" /></p>
 
