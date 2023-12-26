@@ -11,7 +11,7 @@
 <p align="center"> - 👨‍💻 I’m currently learning Python ! </p>
 
 <p align="center"> - ⚡ one day or day one ? </p>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/yaboicookie__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaboicookie__" height="30" width="40" /></a>
@@ -22,7 +22,7 @@
 </p>
 
 <br/>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 
 <h3 align="center"> Languages and Tools </h3>
 <br/>
@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=postman,powershell,vim,vscode,twitter,instagram" />
 </div>
 <br/>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datboisoul&show_icons=true&theme=dark&locale=en&layout=compact" alt="datboisoul" />
 </div>
