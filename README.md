@@ -7,13 +7,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=datboisoul&label=Profile%20views&color=000000&style=flat" alt="datboisoul" /> </p>
 
 <p align="center"> <a href="https://twitter.com/yaboicookie__" target="blank"><img src="https://img.shields.io/twitter/follow/yaboicookie__?logo=twitter&style=for-the-badge" alt="yaboicookie__" /></a> </p>
-<hr/>
+
 <p align="center"> - 👨‍💻 I’m currently learning Python ! </p>
 
 <p align="center"> - ⚡ one day or day one ? </p>
-<hr/>
 <h3 align="center">Connect with me:</h3>
-<hr/>
 <p align="center">
 <a href="https://twitter.com/yaboicookie__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaboicookie__" height="30" width="40" /></a>
 <a href="https://fb.com/lataeeex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lataeeex" height="30" width="40" /></a>
@@ -25,12 +23,12 @@
 <hr/>
 
 <h3 align="center">Languages and Tools:</h3>
-<hr/>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,css,html,docker,flask,github" /><br>
-  <img src="https://skillicons.dev/icons?i=gitlab,postman,powershell,vim,vscode,twitter,instagram" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,css,html,docker,flask,github,gitlab" /><br/>
+  <img src="https://skillicons.dev/icons?i=postman,powershell,vim,vscode,twitter,instagram" />
 </div>
-<hr/>
+
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datboisoul&show_icons=true&theme=dark&locale=en&layout=compact" alt="datboisoul" />
 </div>
