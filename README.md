@@ -8,11 +8,11 @@
 
 <p align="center"> <a href="https://twitter.com/yaboicookie__" target="blank"><img src="https://img.shields.io/twitter/follow/yaboicookie__?logo=twitter&style=for-the-badge" alt="yaboicookie__" /></a> </p>
 
-<p align="center"> - 👨‍💻 I’m currently learning Python ! </p>
+<p align="center"> - 👨‍💻 I’m currently learning <b>Python !</b></p>
 
-<p align="center"> - ⚡ one day or day one ? </p>
+<p align="center"><b>- ⚡ one day or day one ?</b></p>
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/yaboicookie__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaboicookie__" height="30" width="40" /></a>
 <a href="https://fb.com/lataeeex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lataeeex" height="30" width="40" /></a>
