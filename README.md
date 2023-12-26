@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,py,css,html,docker,flask,github,gitlab,postman,powershell,vim,vscode,twitter,instagram)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=linux,bash,py,css,html,docker,flask,github,gitlab,postman,powershell,vim,vscode,twitter,instagram" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=datboisoul&show_icons=true&theme=dark&locale=en&layout=compact" alt="datboisoul" /></p>
 
