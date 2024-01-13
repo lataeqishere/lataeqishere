@@ -25,8 +25,8 @@
 <h2 align="center"> Languages and Tools </h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,py,css,html,docker,flask,github,gitlab" /><br>
-  <img src="https://skillicons.dev/icons?i=postman,powershell,vim,vscode,twitter,instagram" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,py,css,html,github,gitlab" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,twitter,instagram,flask,docker" />
 </div>
 <br/>
 <br/>
