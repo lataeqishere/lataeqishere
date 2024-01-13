@@ -1,6 +1,6 @@
 <div align="center" width: 100%>
   
-  ![IMG_8072_Original](https://i.pinimg.com/originals/ec/11/61/ec1161fcf1fdc8bb6174340dd0a0fe45.gif)
+  ![IMG_8072_Original](https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif)
 </div>
 <h1 align="center">Potae kub 🥷🏿</h1>
 
