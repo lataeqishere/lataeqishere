@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=datboisoul&label=Profile%20views&color=000000&style=flat" alt="datboisoul" /> </p>
 
-<h3 align="center">One day or Day one ?</h3>
+<h2 align="center">One day or Day one ?</h2>
 <br/>
 <h2 align="center">Connect with me:</h2>
 <br/>
