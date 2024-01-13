@@ -4,15 +4,11 @@
 </div>
 <h1 align="center">Potae kub 🥷🏿</h1>
 
-<h3 align="center">Just a random newbie kub :)</h3>
+<h3 align="center">One day or Day one ?</h3>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=datboisoul&label=Profile%20views&color=000000&style=flat" alt="datboisoul" /> </p>
 
 <p align="center"> <a href="https://twitter.com/yaboicookie__" target="blank"><img src="https://img.shields.io/twitter/follow/yaboicookie__?logo=twitter&style=for-the-badge" alt="yaboicookie__" /></a> </p>
-
-<p align="center"> - 👨‍💻 I’m currently learning <b>Python !</b></p>
-
-<p align="center"><b>- ⚡ one day or day one ?</b></p>
 
 <h2 align="center">Connect with me:</h2>
 <br/>
