@@ -1,15 +1,13 @@
+<h1 align="center">Potae kub 🥷🏿</h1>
 <div align="center" width: 100%>
   
   ![IMG_8072_Original](https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif)
 </div>
-<h1 align="center">Potae kub 🥷🏿</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=datboisoul&label=Profile%20views&color=000000&style=flat" alt="datboisoul" /> </p>
 
 <h3 align="center">One day or Day one ?</h3>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=datboisoul&label=Profile%20views&color=000000&style=flat" alt="datboisoul" /> </p>
-
-<p align="center"> <a href="https://twitter.com/yaboicookie__" target="blank"><img src="https://img.shields.io/twitter/follow/yaboicookie__?logo=twitter&style=for-the-badge" alt="yaboicookie__" /></a> </p>
-
 <h2 align="center">Connect with me:</h2>
 <br/>
 <p align="center">
