@@ -1,4 +1,4 @@
-<h1 align="center">Potae kub 🥷🏿</h1>
+<h1 align="center">Potae 🥷🏿</h1>
 <div align="center" width: 100%>
   
   ![IMG_8072_Original](https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif)
@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=datboisoul&label=Profile%20views&color=000000&style=flat" alt="datboisoul" /> </p>
 
-<h2 align="center">One day or Day one ?</h2>
+<h1 align="center">One day or Day one ?</h1>
 <br/>
 
 <br/>
