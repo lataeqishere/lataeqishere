@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ayoooooooooooo;Welcome+to+my+profile+kub!;Have+a+look+around+kub!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ayoooooooooooo;Welcome+kub!;Have+a+look+around+kub!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=datboisoul&label=Profile%20views&color=000000&style=flat" alt="datboisoul" /> </p>
