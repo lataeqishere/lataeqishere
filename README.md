@@ -14,7 +14,8 @@
 
 
 <p align="center">
-    *   Top languages
     
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=DatboisouL\&repo=WEB_MOVIE_RECOMMENDATION\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatboisouL\&layout=compact)
 </p>
