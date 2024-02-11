@@ -3,19 +3,21 @@
 <br>
 
 <p align="center">
-    <h1 align="center">✩&emsp;LataeQ&emsp;✩</h1>
+    <h1 align="center">🎱&emsp;DatboisouL&emsp;🎲</h1>
 </p>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Ayoooooooooooo;Welcome+kub!;Have+a+look+around+kub!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=datboisoul&label=Profile%20views&color=000000&style=flat" alt="datboisoul" /> </p>
 
+<div align="center">
+  <img width=49% src="https://github-readme-stats.vercel.app/api?username=DatboisouL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=DatboisouL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-    
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=DatboisouL\&repo=WEB_MOVIE_RECOMMENDATION\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatboisouL\&layout=compact)
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DatboisouL/count.svg?"  />
+</div>
