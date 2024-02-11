@@ -14,4 +14,7 @@
 
 
 <p align="center">
-    <a href="https://github.com/DatboisouL"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatboisouL&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    *   Top languages
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+</p>
