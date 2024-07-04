@@ -18,7 +18,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Artificial+Intelligence+Engineering+Student">
 </p>
 
-<img src="https://raw.githubusercontent.com/lataeqishere/lataeqishere/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/lataeqishere/lataeqishere/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
