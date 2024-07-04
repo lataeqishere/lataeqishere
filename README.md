@@ -27,6 +27,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/?username=lataeqishere&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img align="right" alt="Coding" height ="196" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlyeGllNjRkdnJud3V6OGlrbTF6dGZzdWhrYzE4dnIyanRjY2s5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif"/>
+  <img align="right" alt="Coding" height ="196" width="360" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlyeGllNjRkdnJud3V6OGlrbTF6dGZzdWhrYzE4dnIyanRjY2s5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif"/>
 </div>
 
